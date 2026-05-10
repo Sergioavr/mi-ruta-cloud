@@ -39,13 +39,13 @@ mi-ruta-cloud/
 - [ ] EF SET English assessment completed
 
 ### Phase 1 — Foundations (Months 1–2)
-- [ ] Linux Journey — completed
-- [ ] OverTheWire: Bandit levels 0–15
+- [x] Linux Journey — completed
+- [x] OverTheWire: Bandit levels 0–15
 - [ ] Cisco NetAcad Networking Basics
 - [ ] CS50P — Python basics
 
 ### Phase 2 — AWS CLF (Months 3–5)
-- [ ] AWS Skill Builder — Cloud Practitioner Essentials
+- [x] AWS Skill Builder — Cloud Practitioner Essentials
 - [ ] Tutorials Dojo practice exams (avg 75%+)
 - [ ] CLF-C02 exam passed ✨
 
